@@ -17,6 +17,7 @@ Ether's project universe: every app orbits Ether's sun.
 - **Ether's Magnetric Universe** (Sedna): a journey inward through eighteen worlds, one for each chapter of Magnetric Being. [Open](https://tonyparker1964.github.io/Ether-s-Magnetric-Universe-/)
 - **Ether's Cymatic** (Ceres): words, tones, songs and your voice turned into glowing cymatic patterns in sand, water and light. [Open](https://tonyparker1964.github.io/EtherCymatic/)
 - **LightBody** (Gonggong): a symbolic 114-point energy body that lights up point by point. [Code](https://github.com/tonyparker1964/LightBody)
+- **LightBody Activation** (Orcus): music lights the LightBody artwork root to crown, with fibre-optic light, a beating heart, a torsion field, Flower of Life bubbles, meridian tones, a tone sequencer and session scripts. [Code](https://github.com/tonyparker1964/Ether-Light-Body-Activation)
 - **Ether's View** (Pluto): a journey through the universe from the Big Bang to the farthest known worlds. [Open](https://tonyparker1964.github.io/Ether-View/)
 - **The Zero's Journey** (Earth, with the Moon as v2): a personal-growth app in nine stages. Private.
 - **Tribe Xchange** (Mars): a SwiftUI app for community trading with time tokens. Private.
@@ -25,6 +26,6 @@ Ether's project universe: every app orbits Ether's sun.
 The public projects in "All repositories" update live from the GitHub API.
 
 ## Credits
-Planet and Sun portraits by Ether. Eris, Haumea and Makemake are drawn from Ether's maps in Ether's View. Ceres, Sedna, Quaoar and Gonggong are drawn for EtherVerse. The Moon is drawn from a map by [Solar System Scope](https://www.solarsystemscope.com/textures/) (CC BY 4.0), based on NASA imagery.
+Planet and Sun portraits by Ether. Eris, Haumea and Makemake are drawn from Ether's maps in Ether's View. Ceres, Sedna, Quaoar, Gonggong and Orcus are drawn for EtherVerse. The Moon is drawn from a map by [Solar System Scope](https://www.solarsystemscope.com/textures/) (CC BY 4.0), based on NASA imagery.
 
 © Ether
