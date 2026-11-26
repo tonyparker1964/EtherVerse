@@ -18,6 +18,15 @@ Ether's project universe: every app orbits Ether's sun.
 - **Ether's Cymatic** (Ceres): words, tones, songs and your voice turned into glowing cymatic patterns in sand, water and light. [Open](https://tonyparker1964.github.io/EtherCymatic/)
 - **LightBody** (Gonggong): a symbolic 114-point energy body that lights up point by point. [Code](https://github.com/tonyparker1964/LightBody)
 - **LightBody Activation** (Orcus): music lights the LightBody artwork root to crown, with fibre-optic light, a beating heart, a torsion field, Flower of Life bubbles, meridian tones, a tone sequencer and session scripts. [Code](https://github.com/tonyparker1964/Ether-Light-Body-Activation)
+- **CYMA Sonic Geometry** (Salacia): Chladni plates, water interference and sacred 3D solids, driven by tones, files, the mic or MIDI. [Code](https://github.com/tonyparker1964/CYMA-SONIC-GEOMETRY-STUDIO)
+- **Ether Cymatic Studio** (Vesta): a cymatics synthesizer with liquid sand, a magnetic water dish, sacred solids, MIDI, colour grading and video capture. [Code](https://github.com/tonyparker1964/Ether-Cymatic-Studio)
+- **Ether Resonance Studio** (Chiron): a local session journal for Spooky2 + Scalar, Muse and FlameInSound. [Code](https://github.com/tonyparker1964/Ether-Resonance-Studio)
+- **Gnosis: The Living Library** (Dysnomia): a study app for the Nag Hammadi texts, with a reader, narrator, Knowledge Atlas, modules, flashcards and quizzes. [Open](https://tonyparker1964.github.io/Ether-Gnostic-Review/)
+- **Ether Gov Research Hub** (Varuna): one search across 19 public archives, with research projects, findings and leads. [Open](https://tonyparker1964.github.io/Ether-Gov-Research-Hub/)
+- **Black Goo Study** (Pallas): a study guide to four talks by Harald Kautz-Vella, with timestamped sections, key terms, his timeline and a quiz. [Open](https://tonyparker1964.github.io/Black-Goo-Study-App/)
+- **Dan Winter Study App** (Varda): Dan Winter's ideas in plain language across seven topics, with live drawings and links to his pages. [Open](https://tonyparker1964.github.io/Dan-Winter-Study-App/)
+- **Ether Polytope Grader** (Ixion): regular shapes from 2D to 19D, spun, dived into and graded like a Resolve shot. [Open](https://tonyparker1964.github.io/Ether-Polytope-Grader/)
+- **Ether Lumen** (Hygiea): a light-and-sound session builder with frequency ramps, left/right colours and binaural or isochronic tones. [Open](https://tonyparker1964.github.io/Ether-Lumen/)
 - **Ether's View** (Pluto): a journey through the universe from the Big Bang to the farthest known worlds. [Open](https://tonyparker1964.github.io/Ether-View/)
 - **The Zero's Journey** (Earth, with the Moon as v2): a personal-growth app in nine stages. Private.
 - **Tribe Xchange** (Mars): a SwiftUI app for community trading with time tokens. Private.
@@ -26,6 +35,6 @@ Ether's project universe: every app orbits Ether's sun.
 The public projects in "All repositories" update live from the GitHub API.
 
 ## Credits
-Planet and Sun portraits by Ether. Eris, Haumea and Makemake are drawn from Ether's maps in Ether's View. Ceres, Sedna, Quaoar, Gonggong and Orcus are drawn for EtherVerse. The Moon is drawn from a map by [Solar System Scope](https://www.solarsystemscope.com/textures/) (CC BY 4.0), based on NASA imagery.
+Planet and Sun portraits by Ether. Eris, Haumea and Makemake are drawn from Ether's maps in Ether's View. Ceres, Sedna, Quaoar, Gonggong, Orcus, Salacia, Vesta, Chiron, Dysnomia, Varuna, Pallas, Varda, Ixion and Hygiea are drawn for EtherVerse. The Moon is drawn from a map by [Solar System Scope](https://www.solarsystemscope.com/textures/) (CC BY 4.0), based on NASA imagery.
 
 © Ether
